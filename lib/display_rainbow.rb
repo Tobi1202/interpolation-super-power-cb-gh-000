@@ -1,4 +1,5 @@
 # Write your #display_rainbow method here
+_colors = [""];
 
 def display_rainbow(colors)
     puts "#{colors[0][0].uppercase}: #{colors[0]}";
