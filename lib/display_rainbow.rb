@@ -6,5 +6,5 @@ def display_rainbow()
 end
 
 def display_rainbow(i)
-    puts "#{colors[0]}, #{colors[1]},#{colors[2]},#{colors[3]},#{colors[4]},#{colors[5]},#{colors[6]}"
+  return colors[i]
 end
