@@ -3,6 +3,5 @@
 
 def display_rainbow(i = 999)
 
-
     puts "#{colors[0]}, #{colors[1]},#{colors[2]},#{colors[3]},#{colors[4]},#{colors[5]},#{colors[6]}"
 end
