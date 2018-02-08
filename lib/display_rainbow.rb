@@ -4,5 +4,8 @@
 def display_rainbow(i = niel)
   if(i != niel){ return colors[i]}
 
-    for(i=0; i< colors.size; i++ )
+    for(i=0; i< colors.size; i++ ){
+      puts colors[i];
+
+    }
 end
