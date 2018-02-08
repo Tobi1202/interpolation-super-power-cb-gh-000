@@ -2,5 +2,6 @@
   colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 def display_rainbow(i)
+  if(i = 0)
   return colors[i]
 end
